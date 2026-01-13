@@ -88,7 +88,7 @@ git merge my-solo-test
 ```
 
 <p align="center">
-  <img src="images/GIT_Merge.png" width="50%">
+  <img src="images/GIT_Merge.png" width="60%">
 </p>
 
 ### 6. Push to your Cloud
@@ -99,7 +99,7 @@ git push origin main
 ```
 
 <p align="center">
-  <img src="images/GIT_Push.png" width="50%">
+  <img src="images/GIT_Push.png" width="60%">
 </p>
 
 ---
@@ -116,7 +116,7 @@ git checkout -b your-name-surname
 ```
 
 <p align="center">
-  <img src="images/GIT_NewBranch.png" width="50%">
+  <img src="images/GIT_NewBranch.png" width="60%">
 </p>
 
 ### 2. Edit the Code
@@ -147,7 +147,7 @@ git push origin your-name-surname
 3. Click the green **"Create pull request"** button.
 
 <p align="center">
-  <img src="images/GIT_PullRequest.png" width="50%">
+  <img src="images/GIT_PullRequest.png" width="60%">
 </p>
 
 ---
